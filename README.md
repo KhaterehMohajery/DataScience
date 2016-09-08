@@ -1,4 +1,0 @@
-## Sample text
-* hi
-*bye
-
